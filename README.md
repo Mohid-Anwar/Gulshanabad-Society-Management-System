@@ -15,7 +15,18 @@
   - [Villa and Flats](#villa-and-flats)
   - [Taxation](#taxation)
   - [File Operations](#file-operations)
-
+  - [Installation Steps](#%EF%B8%8F-installation-steps)
+  - [Screenshots](#screenshots)
+    - [Main Menu](#main-menu)
+    - [Admin Owner Dashboard](#admin-owner-dashboard)
+    - [Admin Property Menu](#admin-property-menu)
+    - [Example Input](#example-input)
+    - [Flat Finder](#flat-finder)
+    - [Login](#login)
+    - [Signup](#signup)
+    - [Villa Display](#villa-display)
+  - [Contribution Guidelines](#-contribution-guidelines)
+  - [Built with](#💻-built-with)
 
 ## Description
 Welcome to **New Gulshanabad Society**, A Java-based OOP project for property management, offering a secure platform for users to buy and register plots or villas with distinct tax schemes. The system features admin functionalities like property registration and owner management, ensuring a seamless experience for society members.
@@ -70,7 +81,15 @@ cd Gulshanabad-Society-Management-System
 And you're Ready to run Your code
 
 ## Screenshots
+![Main Menu](Images/Main_Menu.png)
 ![Admin Owner Dashboard](Images/Admin_Owner.png)
+![Admin_Property_Menu](Images/Admin_Property_Menu.png)
+![Example Input](Images/Example_Input.png)
+![Flat Finder](Images/Flat_Finder.png)
+![Login](Images/Login.png)
+![Signup](Images/Signup.png)
+![Villa Display](Images/Villa_Display.png)
+
 
 ## 🍰 Contribution Guidelines:</h2>
 
