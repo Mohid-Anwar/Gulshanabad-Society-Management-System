@@ -80,15 +80,32 @@ cd Gulshanabad-Society-Management-System
 
 And you're Ready to run Your code
 
-## Screenshots
+# Screenshots
+
 ![Main Menu](Images/Main_Menu.png)
+- *Main Menu*
+
 ![Admin Owner Dashboard](Images/Admin_Owner.png)
-![Admin_Property_Menu](Images/Admin_Property_Menu.png)
+- *Admin Owner Dashboard*
+
+![Admin Property Menu](Images/Admin_Property_Menu.png)
+- *Admin Property Menu*
+
 ![Example Input](Images/Example_Input.png)
+- *Example Input*
+
 ![Flat Finder](Images/Flat_Finder.png)
+- *Flat Finder*
+
 ![Login](Images/Login.png)
+- *Login*
+
 ![Signup](Images/Signup.png)
+- *Signup*
+
 ![Villa Display](Images/Villa_Display.png)
+- *Villa Display*
+
 
 
 ## 🍰 Contribution Guidelines:</h2>
