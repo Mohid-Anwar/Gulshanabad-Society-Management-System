@@ -58,4 +58,28 @@ An interface named "Taxable" is implemented, assigning different tax values for 
 
 All owner and admin accounts, as well as property details, are stored in files. The system supports basic file operations such as addition, deletion, updating, and displaying of data (both specific and all).
 
+## 🛠️ Installation Steps:
 
+- Clone the Repository
+
+```
+git clone https://github.com/Mohid-Anwar/Gulshanabad-Society-Management-System.git
+cd Gulshanabad-Society-Management-System
+```
+
+And you're Ready to run Your code
+
+## Screenshots
+![Admin Owner Dashboard](Images/Admin_Owner.png)
+
+## 🍰 Contribution Guidelines:</h2>
+
+Contributions are welcome! Fork the repository and submit a pull request.
+  
+## 💻 Built with
+
+Technologies used in the project:
+
+*   Java
+*   VS Code
+*   IntelliJ
